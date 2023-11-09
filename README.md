@@ -1,2 +1,2 @@
-# maryzad.dashboard-eg.com
+# http://maryzad.maryzad.com
 # sub domain take over by ......
